@@ -57,3 +57,8 @@ Prompt user for report title or dataset type
 
 Allow filtering by date range or category
 
+*OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/64e275d6-1ef4-42d0-8fbd-81d0ef81f23e)
+![Image](https://github.com/user-attachments/assets/dc101a06-9fee-45e0-aaf1-a932c5169672)
+
